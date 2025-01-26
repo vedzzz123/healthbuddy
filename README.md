@@ -76,13 +76,6 @@ HealthBuddy is a Flutter-based healthcare application designed to simplify medic
 
 ---
 
-## **Contributors**
-- **[Your Name]** – Project Lead and Developer  
-- **[Team Member 1]** – Backend and AI Integration  
-- **[Team Member 2]** – Frontend Development  
-- **[Team Member 3]** – QA and Testing  
-
----
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
